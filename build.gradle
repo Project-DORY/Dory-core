@@ -15,6 +15,11 @@ sourceSets {
             srcDirs = ["Game/src"]
         }
     }
+    test {
+    	java {
+    		srcDirs = ["Game/test"]
+    	}
+    }
 }
 
 test {
