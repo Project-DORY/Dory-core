@@ -1,2 +1,2 @@
 # Dory-game
-Project.Dory RPG
+Dory RPG
