@@ -1,6 +1,6 @@
-package model;
+package org.dorydory.model;
 
-import unitAction.Fightable;
+import org.dorydory.unitAction.Fightable;
 
 public class Monster extends Unit implements Fightable {
 

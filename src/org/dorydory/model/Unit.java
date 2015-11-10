@@ -1,4 +1,4 @@
-package model;
+package org.dorydory.model;
 
 public abstract class Unit {
 	

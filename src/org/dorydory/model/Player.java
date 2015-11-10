@@ -1,7 +1,7 @@
-package model;
+package org.dorydory.model;
 
-import itemAction.Wearable;
-import unitAction.Fightable;
+import org.dorydory.itemAction.Wearable;
+import org.dorydory.unitAction.Fightable;
 
 public class Player extends Unit implements Fightable {
 

@@ -1,8 +1,8 @@
-package battle;
+package org.dorydory.battle;
 
 import java.util.List;
 
-import unitAction.Fightable;
+import org.dorydory.unitAction.Fightable;
 
 public class BattleManager {
 	

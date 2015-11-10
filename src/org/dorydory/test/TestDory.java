@@ -1,4 +1,4 @@
-package test;
+package org.dorydory.test;
 
 import static org.junit.Assert.assertEquals;
 

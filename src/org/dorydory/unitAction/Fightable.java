@@ -1,4 +1,4 @@
-package unitAction;
+package org.dorydory.unitAction;
 
 public interface Fightable {
 	
